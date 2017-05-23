@@ -1,3 +1,3 @@
 function helloworld() {
-	print("Hello, World!");
+	window.alert("Hello, World!");
 }	
